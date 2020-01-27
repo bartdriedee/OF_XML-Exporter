@@ -1,2 +1,2 @@
 # OF_XML-Exporter
-Broadcast XML generator
+Broadcast XML generator build with OpenFrameworks
