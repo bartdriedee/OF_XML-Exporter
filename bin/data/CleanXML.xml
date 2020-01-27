@@ -1,0 +1,51 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+ 
+<COMMERCIAL_DETAILS>
+    <!-- title of the TVC -->
+    <TITLE>Quaker Complete muesli</TITLE>
+ 
+        <!-- productname --> 
+    <PRODUCT>Quaker</PRODUCT>
+     
+        <!-- version of the TVC -->
+    <VERSION>1</VERSION>
+     
+        <!-- name of the advertiser -->
+    <ADVERTISER>Pepsico</ADVERTISER>   
+ 
+    <!-- the commercial length in seconds -->
+    <LENGTH>30</LENGTH>  
+     
+        <!-- begin timecode of the commercial (HH:MM:SS:FF) -->
+    <TC_IN>00:00:00:00</TC_IN>  
+ 
+    <!-- end timecode of the commercial (HH:MM:SS:FF) -->
+    <TC_OUT>00:00:29:24</TC_OUT>  
+ 
+    <!-- the aspectratio of the commercial -->
+    <ASPECT_RATIO>16F16</ASPECT_RATIO>  
+ 
+    <!-- name of the agency -->
+    <AGENCY>FHV BBDO</AGENCY>  
+ 
+    <!-- name of the production company -->
+    <PRODUCTION_COMPANY>My Production Company</PRODUCTION_COMPANY>  
+     
+        <!-- additional information -->
+    <ADDITIONAL_FILE_001></ADDITIONAL_FILE_001>  
+     
+    <COMMENTS></COMMENTS> 
+	
+	<EMAIL_CONFIRMATION>info@company.com; xml@company.com</EMAIL_CONFIRMATION>
+ 
+        <!-- TRUE if its a HD commercial, optional for SD but then as FALSE -->
+        <HD>TRUE</HD>
+  
+        <!-- TRUE by multi channel audio, optional for stereo but then as FALSE -->
+        <MULTI_CHANNEL_AUDIO>FALSE</MULTI_CHANNEL_AUDIO>
+  
+        <!-- only TRUE if used -->
+        <LOW_LOUDNESS_LEVEL>FALSE</LOW_LOUDNESS_LEVEL > 
+ 
+ 
+</COMMERCIAL_DETAILS>

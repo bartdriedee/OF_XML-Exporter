@@ -1,0 +1,3 @@
+ofxClipboard
+ofxDatGui
+ofxXmlSettings
